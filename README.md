@@ -5,3 +5,4 @@
 
 node app.js
 を入力
+ブラウザで localhost:8080 でアクセス
