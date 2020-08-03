@@ -1,8 +1,8 @@
 # iindex_cms
 
-ローカルホストの開き方
-ターミナルにて
-
-node app.js
-を入力
+ローカルホスト起動
+$ node app.js
 ブラウザで localhost:8080 でアクセス
+
+mongoDB起動
+$ brew services start mongodb-community
